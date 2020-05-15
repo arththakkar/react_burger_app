@@ -1,3 +1,5 @@
+Production URL for this sample code: http://arth-burger-builder.herokuapp.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
